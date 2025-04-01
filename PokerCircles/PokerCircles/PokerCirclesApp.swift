@@ -6,7 +6,7 @@
 //
 
 // AppDelegate.swift
-import Firebase
+import FirebaseCore
 import UIKit
 
 class AppDelegate: NSObject, UIApplicationDelegate {
