@@ -1,4 +1,4 @@
-# pokercircles
+# Poker circles
 
 The Poker Circles app simplifies organizing and tracking cash games for poker nights. Whether you're hosting a game or playing, the app ensures smooth management of buy-ins, chip distributions, and cash-outs. Bankers (hosts) can create sessions, approve player requests, and finalize settlements, while players can join games, request buy-ins, and cash out seamlessly. With real-time updates and automatic profit/loss calculations, the app eliminates paperwork and disputes, making poker nights more enjoyable and transparent.
 
